@@ -1,4 +1,6 @@
 # COD API HOW TO
+
+COD API Docs built by the community: https://documenter.getpostman.com/view/5519582/SzzgAefq
 ## Run it with jupyter installed globally
 
 ````shell
