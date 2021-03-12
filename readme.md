@@ -30,4 +30,8 @@ pyenv virtualenv 3.8.2 cod_api
 pyenv local cod_api
 ````
 
+````bash
+pip install -r requirements.txt
+````
+
 ## Run locally with docker
