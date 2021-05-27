@@ -1,2 +1,4 @@
 jupyter
 requests
+numpy
+matplotlib
